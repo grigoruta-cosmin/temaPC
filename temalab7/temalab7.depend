@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542229890 source:e:\cursuri cosmin\teme pc\tema 1 nov\temalab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
